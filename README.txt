@@ -1,6 +1,6 @@
 ARTEMIS is the table that turns your drawing into music. 
 Intrested in more information, check out ARTEMIS' Personal Website:
-[https://uqartemis.github.io/](https://uqartemis.github.io/)
+<https://uqartemis.github.io/>
 
 
  
